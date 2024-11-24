@@ -12,10 +12,10 @@
 
 # Things that are developed
 ## In original
-> It is a website that allows you to create quizzes with a maximum of 3 questions, and each option can only link to the next question of each option.
-* Here is an example of the internal structure of a quiz that could be done.
+> It is a website that allows you to create quizzes with a maximum of 3 questions, and each option can only connect to the next level question.
+* Here is an example of the internal structure of a quiz that could be done. 
 * ![original.png](https://github.com/tnppp1122/Nurse_project/blob/main/pic/original.png)
 ## In develop
-> It's a site that lets you create quizzes with any number of questions, and each choice links to the next question anywhere.
+> It's a site that lets you create quizzes with any number of questions, and each choice can links to the next question at anywhere.
 * Here is an example of the internal structure of a quiz that could be done.
 * ![develop.png](https://github.com/tnppp1122/Nurse_project/blob/main/pic/develop.png)
