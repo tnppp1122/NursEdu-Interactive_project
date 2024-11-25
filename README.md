@@ -8,7 +8,7 @@
 
 # Result of project
 * Because it is a website used only by the nursing faculty, I don't think it is appropriate to present the website.
-* However, after asking, I was allowed to show how the website has been developed from the original.
+* However, Can show how the website has evolved from the original.
 
 # Things that are developed
 ## In original
